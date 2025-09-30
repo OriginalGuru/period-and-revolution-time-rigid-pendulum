@@ -14,5 +14,6 @@ In Colab, using text and code cells, create a structured Python notebook with th
 1. Write pseudocode.
 2. Extract $T$ and $T_{rev}$ versus the initial angular velocity (`ang_vel_0`).
 3. Define and solve (numerically) the integral form for $T$ and $T_{rev}$.
-4. Plot these two results together in a labeled figure.  
+4. Plot these two results together in a labeled figure.
+
 **Submit your Colab notebook through the assignment GitHub repository**
